@@ -4,7 +4,7 @@
 
 Мое резюме: <a href="https://myresume.ru/resume/KepY7c7gxOZ/"> резюме </a>
 
-Мои проекты: <a> портфолио </a>
+Мои проекты: <a href="https://github.com/MariaGoldina/portfolio.git"> портфолио </a>
 
 ### Основные компетенции 
 - Инструменты: Python, Pytest, Selenium, Requests, SQL, Postman, Swagger, DevTools, Git
