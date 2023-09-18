@@ -8,7 +8,7 @@
 
 ### Основные компетенции 
 - Инструменты: Python, Pytest, Selenium, Requests, SQL, Postman, Swagger, DevTools, Git
-- Skills: 
+- Hard Skills: 
     * Функциональное и регрессионное тестирование;
     * Работа с баг-трекинговыми системами;
     * Автоматизация тестирования на Python;
