@@ -7,13 +7,18 @@
 Мои проекты: <a href="https://github.com/MariaGoldina/portfolio.git"> портфолио </a>
 
 ### Основные компетенции 
-- Инструменты: Python, Pytest, Selenium, Requests, SQL, Postman, Swagger, DevTools, Git
+- Инструменты:
+    * Python, Pytest, Selenium, Requests,
+    * Java, Junit, Selenium, OkHttp, Gradle
+    * SQL, Postman, Swagger, DevTools
+    * Kafka, MS RabbitMQ, OpenShift
 - Hard Skills: 
     * Функциональное и регрессионное тестирование;
     * Работа с баг-трекинговыми системами;
-    * Автоматизация тестирования на Python;
-    * Тестирование API;
+    * Автоматизация тестирования на Python, Java;
+    * Тестирование API, брокеров сообщений;
     * Тестирование Web;
+    * Тестирование микросервисов
 - Soft skills:
     * Высокая обучаемость;
     * Работа в команде;
