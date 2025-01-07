@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm QA automation engineer | Тестировщик ПО</h3>
 
-Мое резюме: <a href="https://myresume.ru/resume/KepY7c7gxOZ/"> резюме </a>
+Мое резюме: <a href="https://myresume.ru/resume/XLus3KPx7Dh/"> резюме </a>
 
 Мои проекты: <a href="https://github.com/MariaGoldina/portfolio.git"> портфолио </a>
 
