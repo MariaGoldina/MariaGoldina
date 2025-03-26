@@ -9,8 +9,9 @@
 ### Основные компетенции 
 - Инструменты:
     * Python, Pytest, Selenium, Requests,
-    * Java, Junit, Selenium, OkHttp, Gradle
-    * SQL, Postman, Swagger, DevTools
+    * Java, Junit, Selenium, Gradle, Maven, RestAssured
+    * Allure, Jenkins, Docker
+    * SQL, Postman, SoapUi, Swagger, DevTools
     * Kafka, MS RabbitMQ, OpenShift
 - Hard Skills: 
     * Функциональное и регрессионное тестирование;
